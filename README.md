@@ -16,6 +16,7 @@ My goal is to further my education at Physician's Assistant school.
 
 Here is a link to my resume [Resume](https://github.com/adaobin/adaobin.github.io/files/11052777/Resume.Final.docx)
 
+# Course Projects
 
 ### Work with Penguins
 
