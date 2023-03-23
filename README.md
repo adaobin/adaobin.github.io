@@ -1,5 +1,5 @@
 # Adaobi Nwankwo's Webpage
-This is a page where I'll share some information and the work I am doing in Biostatistics/Bioinformatics. So far, I've done some work to analyze data on penguins, and I've done some work with Lemurs.
+This is a page where I'll share some information and the work I am doing in Biostatistics/Bioinformatics. So far, I've done some work to analyze data on penguins, and I've done some work with Lemurs. I'll also share some information about myself and my goals. 
 
 ## About me
 Hello, my name is Adaobi Nwankwo
