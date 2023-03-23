@@ -1,6 +1,6 @@
 # Adaobi Nwankwo's Webpage
 
-![IMG_9554](https://user-images.githubusercontent.com/122034814/227267257-4c7eb0d4-b167-493b-9644-41451d2fe8bc.jpg=150x150)
+![IMG_9554](https://user-images.githubusercontent.com/122034814/227267257-4c7eb0d4-b167-493b-9644-41451d2fe8bc.jpg)
 
 This is a page where I'll share some information and the work I am doing in Biostatistics/Bioinformatics. So far, I've done some work to analyze data on penguins, and I've done some work with Lemurs. I'll also share some information about myself and my goals. 
 
