@@ -14,7 +14,7 @@ Freshamn year I was an online student due to COVID-19 and spent most of my extra
 
 I’m excited to learn more about what you have to offer.
 
-Here is a link to my resume [here] [Resume Final.docx](https://github.com/adaobin/adaobin.github.io/files/11052777/Resume.Final.docx)
+Here is a link to my resume [here][Resume Final.docx](https://github.com/adaobin/adaobin.github.io/files/11052777/Resume.Final.docx)
 
 
 ### Work with Penguins
