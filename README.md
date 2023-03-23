@@ -12,9 +12,9 @@ Some of my strengths include perseverance and responsibility. Some of my interes
 
 Freshamn year I was an online student due to COVID-19 and spent most of my extra time working. The COVID-19 journey was a hard one but allowed me to become very independent and confident in my ability to adjust in a changing environment. 
 
-I’m excited to learn more about what you have to offer.
+My goal is to further my education at Physician's Assistant school. 
 
-Here is a link to my resume [Resume Final.docx](https://github.com/adaobin/adaobin.github.io/files/11052777/Resume.Final.docx)
+Here is a link to my resume [Resume](https://github.com/adaobin/adaobin.github.io/files/11052777/Resume.Final.docx)
 
 
 ### Work with Penguins
