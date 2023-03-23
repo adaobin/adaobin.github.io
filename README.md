@@ -10,4 +10,4 @@ I started learning how to use R by working with Pamlmer Penguins data set. We ra
 This project is similar to the Penguins dataset but it is a lot larger including about 41,305 Lemurs. If you are interested, you can see my analysis [here](https://adaobin.github.io/BiostatisticsAnalysis/Lemurs.html)
 
 ## Replication Origin Work
-This project involves an intorduction to some bioinformatics work. Here we will be working with a random set of nucleotides. Within this project, I've based my research on a randomly generated genome. If you are interested, you can see my analysis [here](https://adaobin.github.io/BIO4ST1_Group2/Replication_Adaobi_Nwankwo.html)
+This project involves an intorduction to some bioinformatics work. Here we will be working with a random set of nucleotides. Within this project, I've based my research on a randomly generated genome. If you are interested, you can see my analysis [here](https://adaobin.github.io/TheThreeMusketeers/Replication_Adaobi_Nwankwo.html)
