@@ -3,7 +3,7 @@
 ![PNG image-CCD6FFA695ED-1](https://user-images.githubusercontent.com/122034814/231779291-9fdb245a-33af-46e5-bfd1-cefd343c750f.png)
 
 
-This is a page where I'll share some information and the work I am doing in Biostatistics/Bioinformatics. So far, I've done some work to analyze data on penguins, and I've done some work with Lemurs. I'll also share some information about myself and my goals. 
+This is a page where I'll share some information about myself and the work I am doing in Biostatistics/Bioinformatics. So far, I've done some work to analyze data on penguins, and I've done some work with Lemurs. I'll also share some information about myself and my goals. 
 
 ## About me
 Hello, my name is Adaobi Nwankwo
