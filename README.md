@@ -24,10 +24,10 @@ Here is a link to my resume [Resume](https://github.com/adaobin/adaobin.github.i
 
 ### Work with Penguins
 
-I started learning how to use R by working with Pamlmer Penguins data set. We ran an analysis using a small subset of 44 penguins. If you are interested, you can see my analysis [here](https://adaobin.github.io/BiostatisticsAnalysis/PenguinAnalysis.html)
+I started learning how to use R by working with Pamlmer Penguins data set. We ran an analysis using a small subset of 44 penguins. Here, I'll go through some fundamental R functions that will help you learn how to utilize the language. If you are interested, you can see my analysis [here](https://adaobin.github.io/BiostatisticsAnalysis/PenguinAnalysis.html)
 
 ### Work with Lemurs
-This project is similar to the Penguins dataset but it is a lot larger including about 41,305 Lemurs. If you are interested, you can see my analysis [here](https://adaobin.github.io/BiostatisticsAnalysis/Lemurs.html)
+This project is similar to the Penguins dataset but it is a lot larger including about 41,305 Lemurs. It involves similar functions as the Penguins dataset. This project's completion allowed for a more comprehensive understanding of R.. If you are interested, you can see my analysis [here](https://adaobin.github.io/BiostatisticsAnalysis/Lemurs.html)
 
 ### Replication Origin Work
-This project involves an intorduction to some bioinformatics work. Here we will be working with a random set of nucleotides. Within this project, I've based my research on a randomly generated genome. If you are interested, you can see my analysis [here](https://adaobin.github.io/BIO4ST1_Group2/Replication_Adaobi_Nwankwo.html)
+This project involves an introduction to some bioinformatics work. Here we will be working with a random set of nucleotides. Within this project, I've based my research on a randomly generated genome. I introduce numerous functions in this project to help with the outcome of locating the replication origin.. If you are interested, you can see my analysis [here](https://adaobin.github.io/BIO4ST1_Group2/Replication_Adaobi_Nwankwo.html)
