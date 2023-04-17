@@ -31,3 +31,6 @@ This project is similar to the Penguins dataset but it is a lot larger including
 
 ### Replication Origin Work
 This project involves an introduction to some bioinformatics work. Here we will be working with a random set of nucleotides. Within this project, I've based my research on a randomly generated genome. I introduce numerous functions in this project to help with the outcome of locating the replication origin. If you are interested, you can see my analysis [here](https://agmath.github.io/BIO4ST1_Group2/Replication_Adaobi_Nwankwo.html)
+
+### Plants in Danger Work
+Here I conducted an additional biostatistics project on another dataset. This dataset described extinct plants all over the world. It takes in many variables. If you are interested, you can see my analysis [here](https://agmath.github.io/BIO4ST1_Group2/Plants_in_danger.qmd.html)
