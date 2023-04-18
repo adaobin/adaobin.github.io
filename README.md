@@ -14,7 +14,7 @@ While at SNHU, I’ve had the opportunity to gain experience in the biology, mic
 
 Some of my strengths include perseverance and responsibility. Some of my interests include traveling and visiting new places. I spend any of my extra time serving at a restaurant in Hudson, called T-bones. I'm also a liscenced nursing assistant at an assisted living facility in Bedford. 
 
-Freshamn year I was an online student due to COVID-19 and spent most of my extra time working. The COVID-19 journey was a hard one but allowed me to become very independent and confident in my ability to adjust in a changing environment. 
+Freshman year I was an online student due to COVID-19 and spent most of my extra time working. The COVID-19 journey was a hard one but allowed me to become very independent and confident in my ability to adjust in a changing environment. 
 
 My goal is to further my education at Physician's Assistant school. 
 
